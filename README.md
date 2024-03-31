@@ -1,4 +1,5 @@
 # OnlineExamSystem
+OnlineExamSystem, Integrated Software Engineering Practice 2 course, 2019 Spring, NENU
 ## 一体化软件工程实践之在线考试系统  
 ## **开发环境介绍**
 + Java版本：1.8
